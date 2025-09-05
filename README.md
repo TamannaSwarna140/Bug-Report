@@ -18,4 +18,4 @@ Activities I followed:
 
 * Perform CRUD operations
 
-Edit personal info from PIM menu
+* Edit personal info from PIM menu
